@@ -1,3 +1,3 @@
-module github.com/MYavuzYAGIS/Goblin
+module github.com/MYavuzYAGIS/GoSpy
 
-go 1.18
+go 1.19
