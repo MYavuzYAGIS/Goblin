@@ -1,8 +1,9 @@
 package main
 
-import "fmt"
+import (
+	"github.com/MYavuzYAGIS/Goblin/helpers"
+)
 
 func main() {
-	fmt.Println("je dabduubu")
-	return
+	helpers.Print_Banner()
 }
